@@ -1,0 +1,7 @@
+(321) Tue 15/11/22 08:52:36 (23)
+ENG-IRN 0-0 (0) rm15
+ENG-IRN 1-1 (0) rm10
+ENG-IRN 2-2 (0) rm15
+ENG-IRN 3-3 (0) rm10
+ENG-IRN 4-4 (0) rm15
+Total rm65

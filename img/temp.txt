@@ -1,0 +1,45 @@
+******Ticket (3) NOT VALID******
+(-321) Sat 12/11/22 20:05:24 (3)
+QAT-ECU 3-1 (0) rm20
+QAT-ECU 3-2 (0) rm25
+QAT-ECU 4-0 (0) rm50
+Total rm95
+************CANCELED************
+
+******Ticket (7) NOT VALID******
+(-321) Sat 12/11/22 20:06:19 (7)
+QAT-ECU 0-0 (0) rm25
+QAT-ECU 1-1 (0) rm25
+QAT-ECU 2-2 (0) rm25
+QAT-ECU 3-3 (0) rm25
+QAT-ECU 4-4 (0) rm25
+Total rm125
+************CANCELED************
+
+******Ticket (12) NOT VALID******
+(-321) Sat 12/11/22 20:07:15 (12)
+ECU-QAT 3-1 (0) rm50
+ECU-QAT 4-0 (0) rm25
+ECU-QAT 4-1 (0) rm25
+ECU-QAT 4-2 (0) rm25
+ECU-QAT 4-3 (0) rm25
+ECU-QAT 5up (0) rm50
+Total rm200
+************CANCELED************
+
+******Ticket (21) NOT VALID******
+(-321) Sun 13/11/22 13:31:23 (21)
+QAT-ECU 1-0 (0) rm20
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 2-1 (0) rm25
+Total rm65
+************CANCELED************
+
+******Ticket (22) NOT VALID******
+(-321) Sun 13/11/22 13:40:15 (22)
+ENG-IRN 1-0 (0) rm20
+ENG-IRN 2-0 (0) rm20
+ENG-IRN 2-1 (0) rm25
+Total rm65
+************CANCELED************
+

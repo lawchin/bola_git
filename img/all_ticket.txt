@@ -1,0 +1,2171 @@
+(321) Tue 01/11/22 09:59:17 (3)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Wed 02/11/22 20:26:21 (1)
+ENG-IRN 1-0 (0) rm10
+ENG-IRN 2-0 (0) rm10
+ENG-IRN 2-1 (0) rm10
+Total rm30
+
+(321) Wed 02/11/22 20:26:33 (2)
+ECU-QAT 1-0 (0) rm25
+ECU-QAT 2-0 (0) rm25
+ECU-QAT 2-1 (0) rm50
+Total rm100
+
+(321) Wed 02/11/22 20:26:51 (3)
+ENG-IRN 3-0 (0) rm50
+ENG-IRN 3-1 (0) rm50
+ENG-IRN 3-2 (0) rm50
+Total rm150
+
+(321) Wed 02/11/22 20:36:18 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Wed 02/11/22 20:36:25 (2)
+ENG-IRN 2-0 (0) rm20
+Total rm20
+
+(321) Thu 03/11/22 20:56:06 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Thu 03/11/22 20:56:42 (2)
+ENG-IRN 2-0 (0) rm10
+ENG-IRN 2-1 (0) rm10
+Total rm20
+
+(321) Thu 03/11/22 21:00:19 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Thu 03/11/22 21:00:28 (2)
+ECU-QAT 4-0 (0) rm10
+ECU-QAT 4-1 (0) rm10
+Total rm20
+
+(321) Thu 03/11/22 21:03:16 (1)
+QAT-ECU 1-0 (0) rm20
+Total rm20
+
+(321) Thu 03/11/22 21:03:36 (2)
+QAT-ECU 0-0 (0) rm20
+Total rm20
+
+(321) Thu 03/11/22 21:07:30 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Thu 03/11/22 21:07:37 (2)
+QAT-ECU 2-0 (0) rm10
+QAT-ECU 2-1 (0) rm10
+Total rm20
+
+(321) Thu 03/11/22 21:10:41 (1)
+QAT-ECU 1-0 (0) rm200
+Total rm200
+
+(321) Thu 03/11/22 21:15:44 (2)
+ECU-QAT 5up (0) rm100
+Total rm100
+
+(321) Thu 03/11/22 21:25:01 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Thu 03/11/22 21:25:06 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:07:54 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:08:16 (2)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:10:47 (3)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:10:54 (4)
+IRN-ENG 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:11:42 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:11:48 (2)
+ECU-QAT 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:18:08 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:18:13 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:19:19 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:19:23 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:21:02 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:23:58 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:24:02 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:28:38 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:28:44 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:35:29 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:35:35 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:37:39 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:37:45 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:39:11 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 14:39:16 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:02:27 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:02:58 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:06:10 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:06:13 (2)
+QAT-ECU 2-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:06:18 (3)
+QAT-ECU 2-1 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:07:19 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:07:25 (2)
+QAT-ECU 2-0 (0) rm20
+Total rm20
+
+(321) Fri 04/11/22 19:07:31 (3)
+QAT-ECU 3-0 (0) rm30
+Total rm30
+
+(321) Fri 04/11/22 19:08:42 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Fri 04/11/22 19:08:51 (2)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Fri 04/11/22 19:09:03 (3)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 19:16:18 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm10
+QAT-ECU 2-1 (0) rm10
+Total rm30
+
+(321) Fri 04/11/22 19:32:32 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 22:54:33 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:00:56 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:04:04 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:07:51 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:11:56 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:14:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:15:41 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:22:59 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:24:13 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 04/11/22 23:26:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:08:15 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:15:46 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:20:04 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:26:37 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:29:31 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:36:40 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:42:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:44:55 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:49:45 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:51:37 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 15:57:03 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 16:00:55 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 16:03:33 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 16:10:34 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 16:51:49 (1)
+QAT-ECU 3-0 (0) rm30
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 1-0 (0) rm10
+Total rm60
+
+(321) Sat 05/11/22 16:55:42 (1)
+QAT-ECU 3-0 (0) rm30
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 1-0 (0) rm10
+Total rm60
+
+(321) Sat 05/11/22 16:58:15 (1)
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 16:59:51 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:03:23 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:06:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:08:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:13:46 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:17:13 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:19:31 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:20:26 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:22:37 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:24:50 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:27:03 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:29:54 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:32:06 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:33:30 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 17:34:20 (2)
+ENG-IRN 4-0 (0) rm50
+ENG-IRN 4-1 (0) rm100
+ENG-IRN 4-2 (0) rm200
+Total rm350
+
+(321) Sat 05/11/22 19:52:28 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:03:33 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:05:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:06:57 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:08:46 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:15:33 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:26:55 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:28:39 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:31:51 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:33:24 (2)
+ENG-IRN 0-0 (0) rm25
+ENG-IRN 1-1 (0) rm25
+ENG-IRN 2-2 (0) rm25
+Total rm75
+
+(321) Sat 05/11/22 20:36:47 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:36:57 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm20
+Total rm40
+
+(321) Sat 05/11/22 20:39:00 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:39:08 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm20
+Total rm40
+
+(321) Sat 05/11/22 20:41:24 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:41:32 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm20
+Total rm40
+
+(321) Sat 05/11/22 20:44:42 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 20:44:49 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm20
+Total rm40
+
+(321) Sat 05/11/22 21:01:07 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 21:01:18 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm20
+Total rm40
+
+(321) Sat 05/11/22 21:08:33 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sat 05/11/22 21:08:40 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm20
+Total rm40
+
+(321) Sun 06/11/22 10:33:23 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Sun 06/11/22 10:33:33 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm20
+Total rm40
+
+(321) Sun 06/11/22 10:38:08 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Sun 06/11/22 10:43:18 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Sun 06/11/22 10:44:02 (2)
+QAT-ECU 0-0 (0) rm25
+Total rm25
+
+(321) Sun 06/11/22 10:45:49 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 10:46:34 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 10:46:47 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 10:52:35 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 10:52:45 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 10:54:11 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 10:54:19 (2)
+ENG-IRN 0-0 (0) rm20
+ENG-IRN 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 10:58:55 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 10:59:01 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:03:13 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:03:18 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:05:11 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:05:17 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:07:31 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:07:37 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:11:56 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:12:03 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:14:44 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:14:51 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:16:44 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:16:51 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:20:30 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:20:37 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:25:14 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:25:21 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:30:02 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:30:10 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:32:00 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:32:07 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:34:06 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:34:13 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:35:53 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:36:01 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:44:50 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:45:03 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:49:52 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:50:00 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:51:09 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:51:17 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:52:25 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:52:33 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 11:58:46 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 11:58:52 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:00:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:00:22 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:01:22 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:01:30 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:02:58 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:03:05 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:08:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:08:13 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:29:03 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:29:11 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:31:32 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:31:40 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:33:32 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:33:39 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:41:24 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:41:30 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:45:40 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:45:46 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:48:19 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:48:29 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:55:04 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:55:12 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 12:56:48 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 12:56:54 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 13:00:06 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 13:00:13 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:01:59 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:02:11 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:12:44 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:12:55 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:13:58 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:14:04 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:15:42 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:15:48 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:20:07 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:20:15 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:21:49 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:21:57 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:26:23 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:26:30 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:27:54 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:28:00 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:29:55 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:30:02 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:32:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:32:22 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:34:01 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:34:07 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:35:20 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:35:26 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:45:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:45:11 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:47:11 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:47:17 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:48:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:48:21 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:50:54 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:50:59 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:52:11 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:52:16 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:54:45 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:54:52 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:57:48 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:57:54 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 15:59:46 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 15:59:52 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:01:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:01:11 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:02:12 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:25:57 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:26:04 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:27:38 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:27:43 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:29:26 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:29:31 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:33:13 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:33:20 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:34:36 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:34:42 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:36:52 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:36:58 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 16:59:08 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 16:59:17 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 17:10:00 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 17:10:07 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 17:13:09 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 17:13:15 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 17:15:24 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 17:15:31 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 17:22:41 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 17:22:51 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 17:24:57 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 17:25:03 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 17:59:40 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 17:59:48 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:11:56 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:12:03 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:13:20 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:13:27 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:17:38 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:17:46 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:27:26 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:27:36 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:30:12 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:30:18 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:31:07 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:31:13 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:32:38 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:32:47 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 18:34:56 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 18:35:04 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 19:12:59 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 19:13:10 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 19:17:52 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 19:17:59 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 19:20:38 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 19:20:47 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 19:41:27 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Sun 06/11/22 20:21:18 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 20:37:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 20:50:13 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 20:50:21 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 21:00:00 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 21:51:32 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 21:56:40 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:00:58 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:29:50 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:31:10 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:31:17 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 22:39:41 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:39:47 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 22:42:08 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:42:13 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 22:44:19 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:44:24 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 22:45:46 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:45:51 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 22:54:53 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Sun 06/11/22 22:56:06 (1)
+QAT-ECU 1-0 (0) rm10
+Total rm10
+
+(321) Sun 06/11/22 22:58:21 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 22:58:27 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:01:25 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:01:31 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:09:07 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:09:13 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:11:44 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:11:50 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:13:25 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:13:31 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:15:29 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:15:36 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:17:05 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:17:12 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:21:41 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:21:53 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:26:07 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:26:15 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:28:16 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:28:22 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:30:34 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:30:41 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Sun 06/11/22 23:33:14 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+Total rm30
+
+(321) Sun 06/11/22 23:33:20 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm50
+Total rm70
+
+(321) Mon 07/11/22 08:45:48 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm10
+Total rm20
+
+(321) Mon 07/11/22 08:45:55 (2)
+QAT-ECU 0-0 (0) rm20
+QAT-ECU 1-1 (0) rm25
+Total rm45
+
+(321) Mon 07/11/22 08:46:04 (3)
+ECU-QAT 1-0 (0) rm25
+ECU-QAT 2-0 (0) rm25
+ECU-QAT 2-1 (0) rm25
+Total rm75
+
+(321) Mon 07/11/22 08:46:16 (4)
+ENG-IRN 5up (0) rm100
+IRN-ENG 5up (0) rm100
+Total rm200
+
+(321) Mon 07/11/22 08:48:32 (5)
+QAT-ECU 3-2 (0) rm50
+QAT-ECU 2-2 (0) rm50
+ECU-QAT 3-2 (0) rm50
+QAT-ECU 3-3 (0) rm50
+Total rm200
+
+(321) Wed 09/11/22 21:17:57 (6)
+ENG-IRN 4-0 (0) rm200
+ENG-IRN 4-1 (0) rm200
+ENG-IRN 4-2 (0) rm200
+ENG-IRN 4-3 (0) rm200
+Total rm800
+
+(321) Thu 10/11/22 17:02:51 (7)
+QAT-ECU 4-0 (0) rm100
+Total rm100
+
+(321) Fri 11/11/22 10:00:45 (8)
+ECU-QAT 1-0 (0) rm20
+ECU-QAT 2-0 (0) rm20
+ECU-QAT 2-1 (0) rm20
+ECU-QAT 3-0 (0) rm20
+ECU-QAT 3-1 (0) rm20
+ECU-QAT 3-2 (0) rm20
+ECU-QAT 4-0 (0) rm20
+ECU-QAT 4-1 (0) rm20
+ECU-QAT 4-2 (0) rm20
+ECU-QAT 4-3 (0) rm20
+ECU-QAT 5up (0) rm20
+QAT-ECU 0-0 (0) rm25
+Total rm245
+
+(321) Fri 11/11/22 10:13:51 (9)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm10
+QAT-ECU 2-1 (0) rm10
+QAT-ECU 3-0 (0) rm10
+QAT-ECU 3-1 (0) rm10
+QAT-ECU 3-2 (0) rm10
+QAT-ECU 4-0 (0) rm10
+QAT-ECU 4-1 (0) rm10
+Total rm80
+
+(321) Fri 11/11/22 11:41:07 (1)
+QAT-ECU 1-0 (0) rm200
+QAT-ECU 2-0 (0) rm200
+Total rm400
+
+(321) Fri 11/11/22 11:41:28 (2)
+QAT-ECU 1-0 (0) rm100
+QAT-ECU 2-0 (0) rm200
+Total rm300
+
+(321) Fri 11/11/22 11:41:40 (3)
+QAT-ECU 4-0 (0) rm200
+QAT-ECU 4-1 (0) rm100
+Total rm300
+
+(321) Fri 11/11/22 11:42:29 (4)
+ECU-QAT 4-0 (0) rm200
+ECU-QAT 4-1 (0) rm200
+Total rm400
+
+(321) Fri 11/11/22 11:45:51 (1)
+QAT-ECU 1-0 (0) rm200
+ECU-QAT 4-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+Total rm600
+
+(321) Fri 11/11/22 11:45:59 (2)
+QAT-ECU 0-0 (0) rm200
+QAT-ECU 1-1 (0) rm200
+Total rm400
+
+(321) Fri 11/11/22 11:46:16 (3)
+QAT-ECU 5up (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 11:48:06 (1)
+QAT-ECU 1-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 11:48:29 (2)
+QAT-ECU 1-0 (0) rm200
+QAT-ECU 2-0 (0) rm200
+QAT-ECU 2-1 (0) rm200
+QAT-ECU 3-0 (0) rm200
+QAT-ECU 3-2 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 11:52:32 (1)
+ECU-QAT 4-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 11:52:58 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:02:23 (1)
+ECU-QAT 1-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:02:40 (2)
+ECU-QAT 4-0 (0) rm200
+ECU-QAT 4-1 (0) rm200
+ECU-QAT 4-2 (0) rm200
+ECU-QAT 4-3 (0) rm200
+ECU-QAT 5up (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:04:36 (1)
+QAT-ECU 0-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:04:52 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:07:19 (1)
+ECU-QAT 1-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:07:36 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:09:30 (1)
+QAT-ECU 0-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:09:48 (2)
+ECU-QAT 4-0 (0) rm200
+ECU-QAT 4-1 (0) rm200
+ECU-QAT 4-2 (0) rm200
+ECU-QAT 4-3 (0) rm200
+ECU-QAT 5up (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:10:27 (1)
+QAT-ECU 1-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:10:43 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:12:01 (1)
+QAT-ECU 0-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:12:15 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:16:16 (1)
+ECU-QAT 1-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:16:35 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 12:18:02 (1)
+ECU-QAT 1-0 (0) rm200
+Total rm200
+
+(321) Fri 11/11/22 12:18:17 (2)
+ECU-QAT 1-0 (0) rm200
+ECU-QAT 2-0 (0) rm200
+ECU-QAT 2-1 (0) rm200
+ECU-QAT 3-0 (0) rm200
+ECU-QAT 3-1 (0) rm200
+Total rm1000
+
+(321) Fri 11/11/22 23:27:34 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 3-0 (0) rm30
+Total rm60
+
+(321) Fri 11/11/22 23:27:41 (2)
+QAT-ECU 0-0 (0) rm25
+QAT-ECU 1-1 (0) rm25
+Total rm50
+
+(321) Fri 11/11/22 23:27:49 (3)
+ECU-QAT 3-0 (0) rm50
+ECU-QAT 3-1 (0) rm50
+ECU-QAT 3-2 (0) rm50
+Total rm150
+
+(321) Fri 11/11/22 23:27:57 (4)
+QAT-ECU 5up (0) rm100
+ECU-QAT 5up (0) rm100
+Total rm200
+
+(321) Sat 12/11/22 15:49:37 (5)
+QAT-ECU 1-0 (0) rm100
+Total rm100
+
+(321) Sat 12/11/22 18:00:48 (6)
+QAT-ECU 2-0 (0) rm80
+Total rm80
+
+(321) Sat 12/11/22 18:14:01 (7)
+QAT-ECU 2-1 (0) rm30
+QAT-ECU 2-1 (0) rm50
+Total rm80
+
+(321) Sat 12/11/22 19:03:50 (8)
+QAT-ECU 2-2 (0) rm10
+QAT-ECU 3-3 (0) rm15
+QAT-ECU 4-4 (0) rm20
+Total rm45
+
+(321) Sat 12/11/22 19:14:55 (9)
+QAT-ECU 3-1 (0) rm15
+QAT-ECU 3-2 (0) rm15
+QAT-ECU 4-0 (0) rm15
+QAT-ECU 4-1 (0) rm15
+QAT-ECU 4-2 (0) rm15
+QAT-ECU 4-3 (0) rm15
+Total rm90
+
+(321) Sat 12/11/22 19:18:22 (10)
+ECU-QAT 1-0 (0) rm10
+ECU-QAT 2-0 (0) rm10
+ECU-QAT 2-1 (0) rm10
+Total rm30
+
+(321) Sat 12/11/22 19:18:34 (11)
+ECU-QAT 4-0 (0) rm10
+ECU-QAT 4-1 (0) rm10
+ECU-QAT 4-2 (0) rm10
+ECU-QAT 4-3 (0) rm10
+Total rm40
+
+(321) Sat 12/11/22 20:04:55 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm15
+QAT-ECU 2-1 (0) rm20
+Total rm45
+
+(321) Sat 12/11/22 20:05:09 (2)
+QAT-ECU 2-1 (0) rm10
+QAT-ECU 3-0 (0) rm20
+QAT-ECU 3-1 (0) rm25
+Total rm55
+
+(321) Sat 12/11/22 20:05:24 (3)
+QAT-ECU 3-1 (0) rm20
+QAT-ECU 3-2 (0) rm25
+QAT-ECU 4-0 (0) rm50
+Total rm95
+
+(321) Sat 12/11/22 20:05:46 (4)
+QAT-ECU 3-1 (0) rm25
+QAT-ECU 4-0 (0) rm25
+QAT-ECU 4-1 (0) rm25
+Total rm75
+
+(321) Sat 12/11/22 20:05:56 (5)
+QAT-ECU 3-2 (0) rm20
+QAT-ECU 4-2 (0) rm20
+QAT-ECU 4-3 (0) rm20
+Total rm60
+
+(321) Sat 12/11/22 20:06:07 (6)
+QAT-ECU 5up (0) rm50
+QAT-ECU 2-1 (0) rm25
+QAT-ECU 3-2 (0) rm20
+Total rm95
+
+(321) Sat 12/11/22 20:06:19 (7)
+QAT-ECU 0-0 (0) rm25
+QAT-ECU 1-1 (0) rm25
+QAT-ECU 2-2 (0) rm25
+QAT-ECU 3-3 (0) rm25
+QAT-ECU 4-4 (0) rm25
+Total rm125
+
+(321) Sat 12/11/22 20:06:28 (8)
+ECU-QAT 1-0 (0) rm10
+ECU-QAT 2-0 (0) rm10
+ECU-QAT 2-1 (0) rm10
+Total rm30
+
+(321) Sat 12/11/22 20:06:41 (9)
+ECU-QAT 2-0 (0) rm10
+ECU-QAT 2-1 (0) rm10
+ECU-QAT 3-0 (0) rm10
+Total rm30
+
+(321) Sat 12/11/22 20:06:53 (10)
+ECU-QAT 2-1 (0) rm20
+ECU-QAT 3-0 (0) rm20
+Total rm40
+
+(321) Sat 12/11/22 20:07:02 (11)
+ECU-QAT 3-1 (0) rm50
+ECU-QAT 3-2 (0) rm25
+Total rm75
+
+(321) Sat 12/11/22 20:07:15 (12)
+ECU-QAT 3-1 (0) rm50
+ECU-QAT 4-0 (0) rm25
+ECU-QAT 4-1 (0) rm25
+ECU-QAT 4-2 (0) rm25
+ECU-QAT 4-3 (0) rm25
+ECU-QAT 5up (0) rm50
+Total rm200
+
+(321) Sat 12/11/22 20:07:56 (13)
+ENG-IRN 1-0 (0) rm10
+ENG-IRN 2-0 (0) rm10
+ENG-IRN 2-1 (0) rm10
+ENG-IRN 3-0 (0) rm10
+ENG-IRN 3-1 (0) rm10
+ENG-IRN 3-2 (0) rm10
+Total rm60
+
+(321) Sat 12/11/22 20:09:08 (14)
+QAT-ECU 0-0 (0) rm10
+QAT-ECU 1-1 (0) rm10
+QAT-ECU 2-2 (0) rm10
+QAT-ECU 3-3 (0) rm10
+QAT-ECU 4-4 (0) rm10
+Total rm50
+
+(321) Sat 12/11/22 20:10:23 (15)
+ECU-QAT 3-1 (0) rm10
+ECU-QAT 3-2 (0) rm10
+ECU-QAT 4-0 (0) rm10
+ECU-QAT 4-1 (0) rm10
+ECU-QAT 4-2 (0) rm10
+ECU-QAT 4-3 (0) rm10
+ECU-QAT 5up (0) rm10
+Total rm70
+
+(321) Sat 12/11/22 20:10:50 (16)
+ENG-IRN 4-0 (0) rm10
+ENG-IRN 4-1 (0) rm10
+ENG-IRN 4-2 (0) rm10
+ENG-IRN 4-3 (0) rm10
+ENG-IRN 5up (0) rm10
+Total rm50
+
+(321) Sat 12/11/22 20:11:04 (17)
+ENG-IRN 0-0 (0) rm10
+ENG-IRN 1-1 (0) rm10
+ENG-IRN 2-2 (0) rm10
+ENG-IRN 3-3 (0) rm10
+ENG-IRN 4-4 (0) rm10
+Total rm50
+
+(321) Sat 12/11/22 20:11:18 (18)
+IRN-ENG 4-0 (0) rm10
+IRN-ENG 4-1 (0) rm10
+IRN-ENG 4-2 (0) rm10
+IRN-ENG 4-3 (0) rm10
+IRN-ENG 5up (0) rm10
+Total rm50
+
+(321) Sat 12/11/22 20:11:40 (19)
+IRN-ENG 1-0 (0) rm10
+IRN-ENG 2-0 (0) rm10
+IRN-ENG 2-1 (0) rm10
+IRN-ENG 3-0 (0) rm10
+IRN-ENG 3-1 (0) rm10
+IRN-ENG 3-2 (0) rm20
+Total rm70
+
+(321) Sun 13/11/22 13:30:50 (20)
+QAT-ECU 3-1 (0) rm10
+QAT-ECU 3-2 (0) rm10
+QAT-ECU 4-0 (0) rm10
+Total rm30
+
+(321) Sun 13/11/22 13:31:23 (21)
+QAT-ECU 1-0 (0) rm20
+QAT-ECU 2-0 (0) rm20
+QAT-ECU 2-1 (0) rm25
+Total rm65
+
+(321) Sun 13/11/22 13:40:15 (22)
+ENG-IRN 1-0 (0) rm20
+ENG-IRN 2-0 (0) rm20
+ENG-IRN 2-1 (0) rm25
+Total rm65
+
+(law) Sun 13/11/22 14:58:18 (1)
+QAT-ECU 1-0 (0) rm10
+QAT-ECU 2-0 (0) rm10
+QAT-ECU 2-1 (0) rm10
+Total rm30
+
+(law) Sun 13/11/22 14:58:28 (2)
+QAT-ECU 3-0 (0) rm10
+QAT-ECU 3-1 (0) rm10
+QAT-ECU 3-2 (0) rm10
+Total rm30
+
+(law) Sun 13/11/22 14:58:41 (3)
+QAT-ECU 3-0 (0) rm10
+ECU-QAT 1-0 (0) rm20
+ECU-QAT 2-0 (0) rm20
+ECU-QAT 2-1 (0) rm20
+Total rm70
+
+(law) Sun 13/11/22 14:58:51 (4)
+ECU-QAT 3-0 (0) rm20
+ECU-QAT 3-1 (0) rm20
+ECU-QAT 3-2 (0) rm20
+Total rm60
+
+(law) Sun 13/11/22 14:59:03 (5)
+QAT-ECU 4-0 (0) rm25
+QAT-ECU 4-1 (0) rm25
+QAT-ECU 4-2 (0) rm25
+Total rm75
+
+(law) Sun 13/11/22 14:59:12 (6)
+ECU-QAT 4-0 (0) rm15
+ECU-QAT 4-1 (0) rm15
+ECU-QAT 4-2 (0) rm15
+Total rm45
+
+(law) Sun 13/11/22 14:59:18 (7)
+QAT-ECU 4-3 (0) rm50
+QAT-ECU 5up (0) rm50
+Total rm100
+
+(law) Sun 13/11/22 14:59:31 (8)
+ECU-QAT 4-3 (0) rm100
+ECU-QAT 5up (0) rm100
+Total rm200
+
+(law) Sun 13/11/22 14:59:55 (9)
+QAT-ECU 0-0 (0) rm50
+QAT-ECU 1-1 (0) rm100
+QAT-ECU 2-2 (0) rm150
+QAT-ECU 3-3 (0) rm200
+QAT-ECU 4-4 (0) rm200
+Total rm700
+
+(law) Sun 13/11/22 15:20:44 (10)
+ENG-IRN 1-0 (0) rm50
+ENG-IRN 2-0 (0) rm50
+ENG-IRN 2-1 (0) rm50
+Total rm150
+
+(law) Sun 13/11/22 15:21:30 (11)
+ENG-IRN 1-0 (0) rm10
+ENG-IRN 2-0 (0) rm15
+ENG-IRN 2-1 (0) rm25
+Total rm50
+
+(law) Sun 13/11/22 15:21:53 (12)
+IRN-ENG 4-0 (0) rm150
+IRN-ENG 4-1 (0) rm150
+IRN-ENG 4-2 (0) rm150
+IRN-ENG 4-3 (0) rm200
+IRN-ENG 5up (0) rm200
+Total rm850
+
+(321) Tue 15/11/22 08:52:36 (23)
+ENG-IRN 0-0 (0) rm15
+ENG-IRN 1-1 (0) rm10
+ENG-IRN 2-2 (0) rm15
+ENG-IRN 3-3 (0) rm10
+ENG-IRN 4-4 (0) rm15
+Total rm65
+
