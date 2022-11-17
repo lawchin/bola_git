@@ -22,7 +22,7 @@ source.include_exts = py,png,jpg,kv,atlas,txt,json
 #source.exclude_exts = spec
 
 # (list) List of directory to exclude (let empty to not exclude anything)
-#source.exclude_dirs = tests, bin, venv
+source.exclude_dirs = tests, bin, venv
 
 # (list) List of exclusions using pattern matching
 # Do not prefix with './'
@@ -37,7 +37,7 @@ version = 0.1
 
 # (list) Application requirements
 # comma separated e.g. requirements = sqlite3,kivy
-requirements = python3,CacheControl==0.12.11,cachetools==5.2.0,certifi==2022.9.24,cffi,charset-normalizer==2.1.1,cryptography==38.0.1,docutils==0.19,firebase-admin==6.0.1,google-api-core==2.10.2,google-api-python-client==2.64.0,google-auth==2.13.0,google-auth-httplib2==0.1.0,google-cloud-core==2.3.2,google-cloud-firestore==2.7.2,google-cloud-storage==2.5.0,google-crc32c==1.5.0,google-resumable-media==2.4.0,googleapis-common-protos==1.56.4,grpcio==1.49.1,grpcio-status==1.49.1,httplib2==0.20.4,idna==3.4,kivy==2.1.0,kivymd==1.1.1,msgpack==1.0.4,Pillow,proto-plus==1.22.1,protobuf==4.21.7,pyasn1==0.4.8pyasn1-modules==0.2.8,pycparser==2.21,Pygments==2.13.0,PyJWT==2.5.0,pyparsing==3.0.9,requests==2.28.1,rsa==4.9,six==1.16.0,types-cryptography==3.3.23.1,uritemplate==4.1.1,urllib3==1.26.12
+requirements = python3,CacheControl,cachetools,certifi,cffi,charset-normalizer,cryptography,docutils,firebase-admin,google-api-core,google-api-python-client,google-auth,google-auth-httplib2,google-cloud-core,google-cloud-firestore,google-cloud-storage,google-crc32c,google-resumable-media,googleapis-common-protos,grpcio,grpcio-status,httplib2,idna,kivy,kivymd,msgpack,Pillow,proto-plus,protobuf,pyasn1,pyasn1-modules,pycparser,Pygments,PyJWT,pyparsing,requests,rsa,six,types-cryptography,uritemplate,urllib3
 
 
 # (str) Custom source folders for requirements
